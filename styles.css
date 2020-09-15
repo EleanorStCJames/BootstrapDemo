@@ -1,0 +1,23 @@
+body {
+  background-color: #90AFC5;
+  text-align: center;
+}
+
+h1 {
+  color: #2A3132;
+}
+
+h2 {
+  color: #763626;
+}
+
+.top_section {
+  border: #336B87 solid 5px;
+}
+.middle_section {
+  background-color: #90AFC5;
+}
+
+.bottom_section {
+  border: #336B87 solid 5px;
+}
